@@ -1,3 +1,4 @@
-from django.db import models
+from polls.domain.question import Question
+from polls.domain.choice import Choice
 
-# Create your models here.
+
